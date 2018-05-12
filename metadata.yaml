@@ -1,0 +1,29 @@
+_repo: The-Power-of-FaithExemplified-In-The-Life-And-Writings-Of-The-Late-Mrs.-Isabella-Graham._16276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graham, Isabella
+    birthdate: 1742
+    deathdate: 1814
+    gutenberg_agent_id: '6593'
+    url: http://www.gutenberg.org/2009/agents/6593
+description: ''
+gutenberg_issued: '2005-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Graham, Isabella, 1742-1814'
+- !lcsh 'Christian biography'
+- !lcc 'BR'
+title: 'The Power of Faith
+
+  Exemplified In The Life And Writings Of The Late Mrs. Isabella Graham.'
+url: http://www.gutenberg.org/ebooks/16276
