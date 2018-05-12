@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6593'
     url: http://www.gutenberg.org/2009/agents/6593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16276#The-Power-of-FaithExemplified-In-The-Life-And-Writings-Of-The-Late-Mrs.-Isabella-Graham.
 gutenberg_issued: '2005-07-12'
 gutenberg_type: Text
 identifiers:
